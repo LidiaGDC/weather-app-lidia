@@ -102,7 +102,7 @@ export default function App() {
               <cite title="Source Title">
                 <br />
                 <a
-                  href="https://github.com/LidiaGDC/my-appweather-project-LGDC"
+                  href="https://github.com/LidiaGDC/weather-app-lidia"
                   class="github-link"
                   target="_blank"
                 >
